@@ -1,7 +1,18 @@
-# 👋 Hi, I'm Nikhil Sharma
+<p align="center">
+  <img
+   src="./WhatsApp Image 2024-09-14 at 22.04.43_7e898a80.jpg"
+    width="180"
+    height="180"
+    style="border-radius: 50%;"
+    alt="Nikhil Sharma"
+  />
+</p>
 
-### 🚀 Frontend Developer | React.js | JavaScript
+<h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 
+<p align="center">
+  Frontend Developer | React.js | JavaScript |Aspiring Full Stack Developer
+</p>
 I'm a Computer Engineer currently learning and building projects with
 React.js, JavaScript, Tailwind CSS and REST APIs.
 
@@ -9,7 +20,6 @@ I enjoy building responsive and user-friendly web applications and
 improving my development skills by working on real projects.
 
 ---
-
 ## 🛠️ Skills
 
 ### Frontend
