@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./readme-photo-circular.png" width="180" alt="Nikhil Sharma">
+  src="./WhatsApp Image 2024-09-14 at 22.04.43_7e898a80.jpg" width="180" alt="Nikhil Sharma">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
