@@ -116,7 +116,7 @@ building projects and gaining real-world development experience.
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: [Nikhil Sharma](www.linkedin.com/in/nikhil-sharma-013082220)
+💼 LinkedIn: [Nikhil Sharma](https://www.linkedin.com/in/nikhil-sharma-013082220/)
 
 💻 GitHub: [nikhilsharma7777](https://github.com/nikhilsharma7777)
 
