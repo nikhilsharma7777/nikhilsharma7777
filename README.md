@@ -1,10 +1,3 @@
-
-<p align="center">
-  src="./WhatsApp Image 2024-09-14 at 22.04.43_7e898a80.jpg" width="180" alt="Nikhil Sharma">
-</p>
-
-<h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
-
 <p align="center">
   <img
    src="./WhatsApp Image 2024-09-14 at 22.04.43_7e898a80.jpg"
