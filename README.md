@@ -3,7 +3,7 @@
    src="./WhatsApp Image 2024-09-14 at 22.04.43_7e898a80.jpg"
     width="180"
     height="180"
-    style="border-radius: 50%;"
+    style="border-radius: 100%;"
     alt="Nikhil Sharma"
   />
 </p>
